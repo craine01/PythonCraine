@@ -51,5 +51,4 @@ This repository documents my learning path in Python programming, focusing on th
 ## 🌟 Resources
 - Python official documentation
 - Online tutorials and coding challenges
-- Course materials inspired by CC101
-
+- Course materials inspired by CC102
