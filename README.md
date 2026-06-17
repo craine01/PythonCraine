@@ -1,4 +1,4 @@
-🐍 Python Journey
+ '' 🐍 Python Journey ''
 by: Craine
 
 Note: This is still ongoing, and will have updates as the journey progresses. Don't forget to give this a ⭐!
