@@ -1,2 +1,0 @@
-# PythonCraine
-My journey
