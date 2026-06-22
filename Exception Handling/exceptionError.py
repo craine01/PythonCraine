@@ -1,4 +1,4 @@
-# file handling error
+# exception handling error
 
 try:
     teyvat = input("Enter which region of teyvat you want to join: ")
