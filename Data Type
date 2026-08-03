@@ -1,0 +1,81 @@
+
+# PYTHON DATA TYPES
+
+# 1. Integer (int)
+# Stores whole numbers without decimal points.
+age = 20
+print("Integer:", age)
+print(type(age))
+
+# ---------------------------
+
+# 2. Float (float)
+# Stores numbers with decimal points.
+height = 5.4
+print("\nFloat:", height)
+print(type(height))
+
+# ---------------------------
+
+# 3. String (str)
+# Stores text or a sequence of characters.
+name = "Kristine"
+print("\nString:", name)
+print(type(name))
+
+# ---------------------------
+
+# 4. Boolean (bool)
+# Stores only two values: True or False.
+is_student = True
+print("\nBoolean:", is_student)
+print(type(is_student))
+
+# ---------------------------
+
+# 5. List (list)
+# Stores multiple items in an ordered, changeable collection.
+fruits = ["Apple", "Banana", "Mango"]
+print("\nList:", fruits)
+print(type(fruits))
+
+# Accessing list elements
+print("First fruit:", fruits[0])
+
+# ---------------------------
+
+# 6. Tuple (tuple)
+# Stores multiple items in an ordered, unchangeable collection.
+coordinates = (10, 20)
+print("\nTuple:", coordinates)
+print(type(coordinates))
+
+# ---------------------------
+
+# 7. Dictionary (dict)
+# Stores data as key-value pairs for easy lookup.
+student = {
+    "name": "Kristine",
+    "age": 20,
+    "course": "Computer Science"
+}
+
+print("\nDictionary:", student)
+print(type(student))
+print("Student name:", student["name"])
+
+# ---------------------------
+
+# 8. Set (set)
+# Stores unique, unordered items with no duplicates.
+numbers = {1, 2, 3, 4, 5}
+print("\nSet:", numbers)
+print(type(numbers))
+
+# ---------------------------
+
+# 9. NoneType (None)
+# Represents the absence of a value.
+result = None
+print("\nNone:", result)
+print(type(result))
